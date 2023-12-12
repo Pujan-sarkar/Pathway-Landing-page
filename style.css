@@ -562,3 +562,10 @@ header .navbar a:hover{
   }
 
 }
+@media(max-width: 412px){
+  .home .swiper-slide{
+  width: 9rem;
+  height: 15rem;
+}
+}
+
